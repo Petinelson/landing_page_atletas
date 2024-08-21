@@ -11,7 +11,7 @@ Este repositório contém um projeto de site desenvolvido com HTML e CSS, onde o
 ![Imagem do Projeto](https://github.com/Petinelson/landing_page_atletas/blob/main/assets/print_rebeca.png)
 
 ### Hugo Calderano
-![Imagem do Projeto](https://github.com/Petinelson/landing_page_atletas/blob/main/assets/print_hugo.png)
+![Imagem do Projeto](https://github.com/Petinelson/landing_page_atletas/blob/main/assets/print_calderano.png)
 
 ## Componentes
 
